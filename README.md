@@ -1,9 +1,9 @@
 <br><img align="left"  height="150" width="140" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-arya-stark_by-loogart.png">
 <img align="right"  height="150" width="140" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-ema-watson_by-loogart.png"><br>
-<h1 align="center"> Oie! Eu me chamo <a href="https://www.linkedin.com/in/luana-elis/" target="_blank">Luana Elis</a> 🤗 </h1>
+<h1 align="center"> Hi! My name is <a href="https://www.linkedin.com/in/luana-elis/" target="_blank">Luana Elis</a> 🤗 </h1>
 
 <div align="center">
-  <p align="center"><strong> Sou uma programadora Back-End em desenvolvimento! </p> <p align="center"> Atualmente estudando as stacks Microsoft (C#, .NET) e seu provedor de nuvem, o Azure. </strong></p>
+  <p align="center"><strong> I'm a Back-End dev in development! </p> <p align="center"> Currently studying Microsoft's stacks (C#, .NET) and its Cloud provider, Azure. </strong></p>
 </div>
 <br>
 <br>
